@@ -1,0 +1,53 @@
+.training {
+}
+.training-content {
+  display: flex;
+  flex-direction: row;
+  /* align-items: center; */
+  flex-wrap: wrap;
+}
+.training-header {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+.training-list {
+  display: grid;
+  width: auto;
+  grid-template-columns: 50% 50%;
+  gap: 0px;
+}
+.training-thumbtail {
+  position: relative;
+  margin-left: 50px;
+  width: 350px;
+  padding: 20px;
+  border: 1px solid rgba(65, 65, 65, 0.1);
+  transition: 1s ease;
+  background: hsla(0, 0%, 100%, 0.3);
+}
+h2 {
+  margin-top: 2rem;
+}
+img {
+  /* pointer-events: none; */
+  transition: transform 0.9s; /* Animation */
+  width: 350px;
+  height: 250;
+}
+.training-btn {
+  cursor: pointer;
+  display: inline-block;
+  background: linear-gradient(90deg, #3680f7, #f0ad47);
+  color: #f4f4f4;
+  text-decoration: none;
+  padding: 10px 30px;
+  margin: 20px 0;
+  border: 0;
+}
+@media screen and (max-width: 1200px) {
+  .training-list {
+    margin-top: 2rem;
+    grid-template-columns: 100%;
+  }
+}
