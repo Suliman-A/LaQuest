@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/LaQuest/static/css/main.72f9bba2.css",
-    "main.js": "/github.io/LaQuest/static/js/main.c0601e22.js",
-    "static/js/787.cfd8f164.chunk.js": "/github.io/LaQuest/static/js/787.cfd8f164.chunk.js",
-    "static/media/homeImg.jpg": "/github.io/LaQuest/static/media/homeImg.f739c7a64ce46fc8dbf9.jpg",
-    "static/media/img6.jpg": "/github.io/LaQuest/static/media/img6.3960cd8bf0e39e346cb6.jpg",
-    "static/media/img3.jpg": "/github.io/LaQuest/static/media/img3.df2b287dbf9029c8b5a3.jpg",
-    "static/media/img5.jpg": "/github.io/LaQuest/static/media/img5.39971568ec57f99cfeee.jpg",
-    "static/media/img2.jpg": "/github.io/LaQuest/static/media/img2.4606e0f6470cd724af4f.jpg",
-    "static/media/img1.jpg": "/github.io/LaQuest/static/media/img1.1dece234fa5c091725b4.jpg",
-    "static/media/trainings.jpg": "/github.io/LaQuest/static/media/trainings.bd99d1286a9fd6600d0f.jpg",
-    "static/media/img4.jpg": "/github.io/LaQuest/static/media/img4.3f18df37275aef10813b.jpg",
-    "static/media/laquest_logo.png": "/github.io/LaQuest/static/media/laquest_logo.75204ac374623314b339.png",
-    "static/media/projectImg.png": "/github.io/LaQuest/static/media/projectImg.771236e1a97e2201a189.png",
-    "index.html": "/github.io/LaQuest/index.html",
-    "main.72f9bba2.css.map": "/github.io/LaQuest/static/css/main.72f9bba2.css.map",
-    "main.c0601e22.js.map": "/github.io/LaQuest/static/js/main.c0601e22.js.map",
-    "787.cfd8f164.chunk.js.map": "/github.io/LaQuest/static/js/787.cfd8f164.chunk.js.map"
+    "main.css": "/laQuest/static/css/main.72f9bba2.css",
+    "main.js": "/laQuest/static/js/main.686c190e.js",
+    "static/js/787.cfd8f164.chunk.js": "/laQuest/static/js/787.cfd8f164.chunk.js",
+    "static/media/homeImg.jpg": "/laQuest/static/media/homeImg.f739c7a64ce46fc8dbf9.jpg",
+    "static/media/img6.jpg": "/laQuest/static/media/img6.3960cd8bf0e39e346cb6.jpg",
+    "static/media/img3.jpg": "/laQuest/static/media/img3.df2b287dbf9029c8b5a3.jpg",
+    "static/media/img5.jpg": "/laQuest/static/media/img5.39971568ec57f99cfeee.jpg",
+    "static/media/img2.jpg": "/laQuest/static/media/img2.4606e0f6470cd724af4f.jpg",
+    "static/media/img1.jpg": "/laQuest/static/media/img1.1dece234fa5c091725b4.jpg",
+    "static/media/trainings.jpg": "/laQuest/static/media/trainings.bd99d1286a9fd6600d0f.jpg",
+    "static/media/img4.jpg": "/laQuest/static/media/img4.3f18df37275aef10813b.jpg",
+    "static/media/laquest_logo.png": "/laQuest/static/media/laquest_logo.75204ac374623314b339.png",
+    "static/media/projectImg.png": "/laQuest/static/media/projectImg.771236e1a97e2201a189.png",
+    "index.html": "/laQuest/index.html",
+    "main.72f9bba2.css.map": "/laQuest/static/css/main.72f9bba2.css.map",
+    "main.686c190e.js.map": "/laQuest/static/js/main.686c190e.js.map",
+    "787.cfd8f164.chunk.js.map": "/laQuest/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72f9bba2.css",
-    "static/js/main.c0601e22.js"
+    "static/js/main.686c190e.js"
   ]
 }
