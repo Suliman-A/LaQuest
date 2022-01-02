@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://Suliman-A/github.io/LaQuest",
+  "homepage": "http://Suliman-A/github.io/LaQuest",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -13,7 +13,6 @@
     "react-scripts": "5.0.0",
     "swiper": "^7.4.1",
     "web-vitals": "^2.1.2"
-    
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,8 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }
