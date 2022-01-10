@@ -10,11 +10,11 @@ function ProductItem({
 }) {
     return (
         <div>
-            <a to="/projects" className="projectItem__img">
+            <a to="https://laquest.net/" target="_blank" className="projectItem__img">
                 <img src={img} alt="project img" />
             </a>
             <div className="projectItem__info">
-                <a to="#">
+                <a to="https://laquest.net/" target="_blank">
                 <h3 className="projectItem__title">{title}</h3>
                 </a>
             </div>

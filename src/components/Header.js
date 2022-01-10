@@ -8,10 +8,10 @@ function Header() {
             <div className='toggle'></div>
             <div className='navigation'>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="work.html">Work</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="https://laquest.net/">Home</a></li>
+                    <li><a href="https://laquest.net/">Services</a></li>
+                    <li><a href="https://laquest.net/">Work</a></li>
+                    <li><a href="https://laquest.net/">Contact</a></li>
                 </ul> 
             </div>
         </div>

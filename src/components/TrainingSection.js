@@ -20,22 +20,22 @@ function TrainingSection() {
                         <div className='training-thumbtail'>
                             <p>IT CORPORATE BOOTCAMP</p>
                             <h4>Comprehensive Cross Platform Mobile Apps Development with flutter.</h4>
-                            <a href='#' target='_blank' className='training-btn'>READ MORE</a>
+                            <a href='https://laquest.net/' target='_blank' className='training-btn'>READ MORE</a>
                         </div>
                         <div className='training-thumbtail'>
                             <p>IT CORPORATE BOOTCAMP</p>
                             <h4>Comprehensive Cross Platform Mobile Apps Development with flutter.</h4>
-                            <a href='#' target='_blank' className='training-btn'>READ MORE</a>
+                            <a href='https://laquest.net/' target='_blank' className='training-btn'>READ MORE</a>
                         </div>
                         <div className='training-thumbtail'>
                             <p>IT CORPORATE BOOTCAMP</p>
                             <h4>Comprehensive Cross Platform Mobile Apps Development with flutter.</h4>
-                            <a href='#' target='_blank' className='training-btn'>READ MORE</a>
+                            <a href='https://laquest.net/' target='_blank' className='training-btn'>READ MORE</a>
                         </div>
                         <div className='training-thumbtail'>
                             <p>IT CORPORATE BOOTCAMP</p>
                             <h4>Comprehensive Cross Platform Mobile Apps Development with flutter.</h4>
-                            <a href='#' target='_blank' className='training-btn'>READ MORE</a>
+                            <a href='https://laquest.net/' target='_blank' className='training-btn'>READ MORE</a>
                         </div>
                     </div>
                 </div>

@@ -5,7 +5,7 @@ import HomeImg from '../assets/homeImg.jpg'
 function HomeSection() {
     return (
         <div className='container home'>
-            <img src={ HomeImg } className="home-img" alt="" />
+            <img src='https://canopuslab.com/images/news/Canopus_Build_vs_buy_software_800.png' className="home-img" alt="" />
             <div className="home-content">
                 <h3>TASKS SIMPLIFIED</h3>
                 <h1>
