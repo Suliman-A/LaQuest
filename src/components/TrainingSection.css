@@ -7,19 +7,17 @@
   flex-wrap: wrap;
 }
 .training-header {
-  display: flex;
+  flex: 1;
   flex-direction: column;
-  max-width: 400px;
+  max-width: 600px;
 }
 .training-list {
   display: grid;
   width: auto;
   grid-template-columns: 50% 50%;
-  gap: 0px;
 }
 .training-thumbtail {
   position: relative;
-  margin-left: 50px;
   width: 350px;
   padding: 20px;
   border: 1px solid rgba(65, 65, 65, 0.1);
@@ -45,6 +43,7 @@ img {
   margin: 20px 0;
   border: 0;
 }
+/* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 1200px) {
   .training-list {
     margin-top: 2rem;

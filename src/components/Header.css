@@ -5,6 +5,11 @@
   font-size: 2rem;
   font-weight: 700;
   z-index: 20;
+  padding: 10px 20px;
+  background: linear-gradient(90deg, #3680f7, #f0ad47);
+  color: aliceblue;
+  font-weight: 400;
+  border-radius: 5px;
 }
 
 .navigation {
