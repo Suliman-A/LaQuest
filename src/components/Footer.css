@@ -1,7 +1,6 @@
 .footer-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 5px 100px;
   height: auto;
+}
+.footer-brand img {
+  width: 200px;
 }

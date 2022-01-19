@@ -26,3 +26,8 @@
   font-weight: 400;
   color: #fff;
 }
+@media (max-width: 600px) {
+  .update-content p {
+    font-size: 14px;
+  }
+}

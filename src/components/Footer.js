@@ -8,7 +8,7 @@ function Footer() {
             <div className='footer-brand'>
                 <img src={footerImg} alt='logo'></img>
             </div>
-            <p>Copyright © 2021 LaQuest Inc. All rights reserved.</p>
+           
         </div>
     )
 }
