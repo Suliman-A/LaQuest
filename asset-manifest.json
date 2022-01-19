@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/laQuest/static/css/main.3d751668.css",
-    "main.js": "/laQuest/static/js/main.e9a76974.js",
+    "main.css": "/laQuest/static/css/main.e3537afd.css",
+    "main.js": "/laQuest/static/js/main.9a50390b.js",
     "static/js/787.cfd8f164.chunk.js": "/laQuest/static/js/787.cfd8f164.chunk.js",
     "static/media/homeImg.jpg": "/laQuest/static/media/homeImg.f739c7a64ce46fc8dbf9.jpg",
     "static/media/img6.jpg": "/laQuest/static/media/img6.3960cd8bf0e39e346cb6.jpg",
@@ -14,12 +14,12 @@
     "static/media/laquest_logo.png": "/laQuest/static/media/laquest_logo.75204ac374623314b339.png",
     "static/media/projectImg.png": "/laQuest/static/media/projectImg.771236e1a97e2201a189.png",
     "index.html": "/laQuest/index.html",
-    "main.3d751668.css.map": "/laQuest/static/css/main.3d751668.css.map",
-    "main.e9a76974.js.map": "/laQuest/static/js/main.e9a76974.js.map",
+    "main.e3537afd.css.map": "/laQuest/static/css/main.e3537afd.css.map",
+    "main.9a50390b.js.map": "/laQuest/static/js/main.9a50390b.js.map",
     "787.cfd8f164.chunk.js.map": "/laQuest/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d751668.css",
-    "static/js/main.e9a76974.js"
+    "static/css/main.e3537afd.css",
+    "static/js/main.9a50390b.js"
   ]
 }
